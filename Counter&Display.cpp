@@ -76,7 +76,7 @@ void sendLoRaMessage(void*) { ... }
 
 // 13) Create Send Messages Function:
 
-void createSendMessages() { ... }  //This function creates a task for sending periodic LoRa messages.
+void createSendMessages() { ... }     //This function creates a task for sending periodic LoRa messages.
 
 // 14) Setup Function:
 
@@ -85,7 +85,7 @@ void setup() { ... }
 
 // 15) Loop Function:
 
-void loop() { ... }  //The loop function refreshes the display.
+void loop() { ... }    // The loop function refreshes the display.
 
 // Overall, this code manages LoRa communication between devices, including sending and receiving data packets, maintaining routing information, and updating the display with relevant information. It follows a task-based approach where different tasks handle specific responsibilities concurrently.
 
