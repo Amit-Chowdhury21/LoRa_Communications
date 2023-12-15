@@ -4,25 +4,25 @@
 
 ## Introduction
 
-LoRa (Long Range) technology operates on low-power, wide-area networks, providing long-range communication capabilities.
+-LoRa (Long Range) technology operates on low-power, wide-area networks, providing long-range communication capabilities.
+-LoRa enables communication through radio frequency modulation, making it suitable for IoT applications and V2V communication.
+-Nodes equipped with LoRa modules create a decentralized mesh network among vehicles.
+-Each node acts as both a transmitter and a receiver, allowing for direct communication between vehicles without relying on cellular or Wi-Fi networks.
 
-LoRa enables communication through radio frequency modulation, making it suitable for IoT applications and V2V communication.
-Nodes equipped with LoRa modules create a decentralized mesh network among vehicles.
-Each node acts as both a transmitter and a receiver, allowing for direct communication between vehicles without relying on cellular or Wi-Fi networks.
 Independence from Cellular and Wi-Fi Networks:
-LoRa's independent network ensures V2V communication even in areas with limited or no cellular or Wi-Fi coverage.
-This autonomy is crucial for real-time communication between vehicles, especially in remote or densely populated urban environments.
+-LoRa's independent network ensures V2V communication even in areas with limited or no cellular or Wi-Fi coverage.
+-This autonomy is crucial for real-time communication between vehicles, especially in remote or densely populated urban environments.
 
 ### Advantages:
-Enhancing Road Safety
-Addressing Traffic Congestion
-Enabling Future Mobility
-Environmental Sustainability
+-Enhancing Road Safety
+-Addressing Traffic Congestion
+-Enabling Future Mobility
+-Environmental Sustainability
 
-Meshtastic
+## Meshtastic
 
-Meshtastic is an open-source project that empowers individuals and communities to create their own mesh networks.
-Tested 3 nodes communicating with each other in IIT Jammu Campus.
+-Meshtastic is an open-source project that empowers individuals and communities to create their own mesh networks.
+-Tested 3 nodes communicating with each other in IIT Jammu Campus.
 
 
 
