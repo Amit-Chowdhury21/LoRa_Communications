@@ -29,29 +29,29 @@ Independence from Cellular and Wi-Fi Networks:
 
 
 Vehicular Parameters Sharing:
-LoRa modules installed in vehicles facilitate the sharing of vehicular parameters such as speed, location, and acceleration.
-This real-time data exchange contributes to a comprehensive understanding of the vehicular environment and enhances safety.
+- LoRa modules installed in vehicles facilitate the sharing of vehicular parameters such as speed, location, and acceleration.
+- This real-time data exchange contributes to a comprehensive understanding of the vehicular environment and enhances safety.
 
-Setup
-
-
+## Setup
 
 
-LoRa Modules installed in vehicles
-Connected to a smart phone/display using Bluetooth
-Device discovery feature that allows users to identify and connect with nearby Meshtastic nodes
-Creating a Mesh Network
-Nodes sharing critical vehicular informations
+
+
+- LoRa Modules installed in vehicles
+- Connected to a smart phone/display using Bluetooth
+- Device discovery feature that allows users to identify and connect with nearby Meshtastic nodes
+- Creating a Mesh Network
+- Nodes sharing critical vehicular informations
 ( License Number, Location, Speed, Acceleration, Sudden Braking, Road hazards or Warnings)
 
-GUI Development for Visualization:
+## GUI Development for Visualization:
 
-A user-friendly Graphical User Interface (GUI) is designed to visualize nearby vehicles on a map.
-The GUI displays real-time data received from LoRa-enabled vehicles, providing users with a clear and intuitive representation of the surrounding vehicular environment.
+- A user-friendly Graphical User Interface (GUI) is designed to visualize nearby vehicles on a map.
+- The GUI displays real-time data received from LoRa-enabled vehicles, providing users with a clear and intuitive representation of the surrounding vehicular environment.
 
 Threat Visualization:
-The GUI incorporates features to identify and visualize potential threats based on shared vehicular parameters.
-Alarms or visual cues alert users to situations such as abrupt acceleration, sudden stops, or proximity to other vehicles, enhancing overall safety.
+- The GUI incorporates features to identify and visualize potential threats based on shared vehicular parameters.
+- Alarms or visual cues alert users to situations such as abrupt acceleration, sudden stops, or proximity to other vehicles, enhancing overall safety.
 
 
 GUI simplifies the configuration and operation of LoRa devices.
