@@ -110,11 +110,15 @@ Improving distance accuracy of nearby vehicles.
 
 References
 
-A. P. A. Torres, C. B. D. Silva and H. T. Filho, "An Experimental Study on the Use of LoRa Technology in Vehicle Communication," in IEEE Access, vol. 9, pp. 26633-26640, 2021.
-Gaddam, V. R., & Akopian, D., “Vehicle-to-vehicle communication using LoRa technology for cooperative driving applications,” Sensors, 19(6), 1306, 2019. 
-Raza, S., Kulkarni, P., & Sooriyabandara, “Low power wide area networks: An overview,” IEEE Communications Surveys & Tutorials, 19(2), 855-873,  2017. 
-Paiva R. C. D., Ferreira, J. A. S., & Souto, “V2V communication in smart cities using LoRaWAN,” 15th IEEE Annual Consumer Communications & Networking Conference (CCNC), (pp. 1-6), 2018. 
-Zou, Z., Wen, D., & Zhang, “A cooperative vehicle platoon control method based on LoRaWAN communication technology,” International Journal of Distributed Sensor Networks, 16(6), 1550147720932366, 2020. 
+1. A. P. A. Torres, C. B. D. Silva and H. T. Filho, "An Experimental Study on the Use of LoRa Technology in Vehicle Communication," in IEEE Access, vol. 9, pp. 26633-26640, 2021.
+
+2. Gaddam, V. R., & Akopian, D., “Vehicle-to-vehicle communication using LoRa technology for cooperative driving applications,” Sensors, 19(6), 1306, 2019. 
+
+3. Raza, S., Kulkarni, P., & Sooriyabandara, “Low power wide area networks: An overview,” IEEE Communications Surveys & Tutorials, 19(2), 855-873,  2017. 
+
+4. Paiva R. C. D., Ferreira, J. A. S., & Souto, “V2V communication in smart cities using LoRaWAN,” 15th IEEE Annual Consumer Communications & Networking Conference (CCNC), (pp. 1-6), 2018. 
+
+5. Zou, Z., Wen, D., & Zhang, “A cooperative vehicle platoon control method based on LoRaWAN communication technology,” International Journal of Distributed Sensor Networks, 16(6), 1550147720932366, 2020. 
 
 
 
