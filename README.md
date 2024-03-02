@@ -54,52 +54,44 @@ Threat Visualization:
 - Alarms or visual cues alert users to situations such as abrupt acceleration, sudden stops, or proximity to other vehicles, enhancing overall safety.
 
 
-GUI simplifies the configuration and operation of LoRa devices.
-Integration of GPS information on the GUI, providing real-time location data for each connected node. 
+- GUI simplifies the configuration and operation of LoRa devices.
+- Integration of GPS information on the GUI, providing real-time location data for each connected node. 
 
-GPS signals are modeled as a combination of a carrier 
-wave and a modulation signal. 
+- GPS signals are modeled as a combination of a carrier wave and a modulation signal. 
 
-The carrier wave is transmitted at specific radio 
-frequencies (1575.42 MHz), and the modulation 
-signal contains the information needed for position 
-determination known as Coarse/Acquisition (C/A) code.
+- The carrier wave is transmitted at specific radio frequencies (1575.42 MHz), and the modulation signal contains the information needed for position determination known as Coarse/Acquisition (C/A) code.
 
 
 
 
 
-The position of the receiver can be represented by the following mathematical equations:
+## Features
+
+- Prior Zone: 20 m Radius
+- Speed and Acceleration
 
 
 
-Features
-
-Prior Zone: 20 m Radius
-Speed and Acceleration
-
-
-
-License Number
-Location Coordinates
-Distance
-Bearing Angle
+- License Number
+- Location Coordinates
+- Distance
+- Bearing Angle
 
 
 
-Waypoint / Info Msg
+- Waypoint / Info Msg
 
 
 
 
-Warnings
+- Warnings
 
-   High Speeding
-   Collision Possibility
-   Sudden Braking
+   High Speeding,
+   Collision Possibility,
+   Sudden Braking,
    Wrong Lane Driving
 
-Future Work
+- Future Work
 
 
 Designing efficient Communication Protocols between vehicles.
