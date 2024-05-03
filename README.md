@@ -84,15 +84,14 @@ Threat Visualization:
 
 
 
-- Warnings
+- Warnings:
 
-   High Speeding,
-   Collision Possibility,
-   Sudden Braking,
-   Wrong Lane Driving
+   1) High Speeding
+   2) Collision Possibility
+   3) Sudden Braking
+   4) Wrong Lane Driving
 
 - Future Work
-
 
 Designing efficient Communication Protocols between vehicles.
 Adding more warning features.
